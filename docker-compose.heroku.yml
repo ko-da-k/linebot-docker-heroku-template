@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  heroku_web:
+    build:
+      context: .
+      dockerfile: Dockerfile.heroku
+    container_name: app-heroku

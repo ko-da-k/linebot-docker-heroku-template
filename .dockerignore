@@ -1,0 +1,8 @@
+.env
+.git
+.gitignore
+.Procfile
+requirements.txt
+runtime.txt
+docker-compose.yml
+rebuild.sh
